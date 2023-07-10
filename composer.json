@@ -1,0 +1,22 @@
+{
+    "name": "lucasvolpati/to_do_list",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Source\\": "source/"
+        },
+        "files": [
+            "source/Support/Config.php",
+            "source/Support/Helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Lucas Alcantara Rodrigues Volpati",
+            "email": "contato@lucasalcantara.dev.br"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
